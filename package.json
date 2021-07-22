@@ -1,0 +1,22 @@
+{
+  "name": "@my-username/collection-helper",
+  "version": "1.0.0",
+  "description": "Learning about private methods",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADamian17/collection-helper.git"
+  },
+  "keywords": [
+    "class"
+  ],
+  "author": "Adonis D Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ADamian17/collection-helper/issues"
+  },
+  "homepage": "https://github.com/ADamian17/collection-helper#readme"
+}
